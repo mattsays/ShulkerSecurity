@@ -1,0 +1,8 @@
+name: ShulkerSecurity
+version: '${project.version}'
+main: com.minepunks.shulkersecurity.ShulkerSecurity
+authors: [ MattSaysMC ]
+commands:
+  backpacks:
+    aliases:
+      - 'bp'

@@ -1,0 +1,2 @@
+autoSaveDelay: 5 # Time is expressed in minutes
+maxBackpacks: 3 # Max amount of backpacks players can have
